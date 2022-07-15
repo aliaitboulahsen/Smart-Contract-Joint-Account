@@ -1,11 +1,11 @@
-# Solidity: Deployment of a smart contract for a joint saving account
+# Solidity: Joint Saving Account Smart Contract
 
 ![image](https://user-images.githubusercontent.com/98672852/179123689-c7381922-3267-4bc3-b720-81d2f8a55efe.png)
 
 ## Background
 
-For this project we will use an Ethereum-compatible blockchain that connects financial institutions. The goal was to build smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
-To automate the creation of joint savings accounts, we will create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. 
+For this project we will use an Ethereum-compatible blockchain that connects financial institutions. The goal is to build smart contracts to automate many of the institutions’ financial processes and features, in this case hosting joint savings accounts.
+To automate the creation of joint savings accounts, I created a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. 
 The smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. 
 These features will consist of the ability to deposit and withdraw funds from the account.
 
